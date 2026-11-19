@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-11-19T03:52:13.987226Z",
+  "generated_at": "2026-11-19T03:53:31.243570Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 83,
+  "new_articles": 86,
   "errors": [],
   "articles": [
+    {
+      "id": "a4cfcc8eafc04465c02f0ab1",
+      "title": "Fiscal de Morelos presenta su Segundo Informe Semestral de Actividades - El Heraldo de México",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdWVOVVAzRDVqbGdjbmswdWt4RjZhYkpjTVhTT2ZfdHEyNng2WTI0cnhzc1JuMnFqWEJuUGNVVVdJOS0wVWRKVFFKeHptZVhJX21LRV9QZTdqTmFNYUk0YXkydFFreDJLcW5xQjJKTmpxTXlxclNwUXhmLVJHdk8xX3JXVWFVRGFEVXpJTVhxaDB0VlUyTFA5ZFh4MXZZcEJ4clFRZWwyaE1YeG13cFVoZVJxckcycjFCbVJPc3ZBNVhWaUpMYmFpMjlkZHFEMVE?oc=5",
+      "source": "El Heraldo de México",
+      "category": "Política",
+      "published_at": "2026-11-19T03:50:59Z",
+      "collected_at": "2026-11-19T03:53:31.243570Z"
+    },
     {
       "id": "0b31b5905cb02d91b2159c60",
       "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
@@ -403,6 +412,15 @@
       "collected_at": "2026-11-19T03:50:41.587419Z"
     },
     {
+      "id": "91c8535511263cca7d277ff8",
+      "title": "Gold and Silver Crash Again: Is the Precious Metals Rally Over? - Cryptonews.net",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqX1QySGtiaGowRFJGc0o0UWhtMEVldTlic0VuNFdXX25hVFcwYVluU2VwMm9kTVFOOFZhZXVwWGk4eE5xbGE4dzdlY0F1VUxvcnVjRWhZVmlwQTA?oc=5",
+      "source": "Cryptonews.net",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T23:31:11Z",
+      "collected_at": "2026-11-19T03:53:31.243570Z"
+    },
+    {
       "id": "3e9f51b29bccf10f5486fff5",
       "title": "Tecnología de autopago en gasolineras será la tendencia del 2027, coinciden expertos y proveedores - El Economista",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUhoYlB4QkhsR3JaY2lqMmNzTHJfdUlDbmRfWkxORldpMXE0cXBzMGstTXd0LU95S0thUzhWRG9BSWZ1REYyVGIwMFFZelAxOWJDM1FhSnlGa3BNeXFBT3hYMEtuTnV0MUNyZkgzSUYyMWtxRWJGbXBJc1pSRUtYLS1qcFNNNWpUM2dwSnpKc29SUV93NnhLRFN0bXNSYWRTSUs5aGowR2lTTUU30gGyAUFVX3lxTFBibmdnOVZUanNCY0swejd4M3E2NjhZUE9ZVjFjMWtyemRISWZIZGJwVmIwUjNHSW04NlBuREI5bVpBMzI0ZE02MDhMRzlwemZLXzdBd3BrblZuZzkteFlKRFhIMElhd080a2F0dldlRE5FUHJ3V3U2b3BrMzkzRDhrbVAtdk52SGd6WlBNSG12d2NISzhGcHZyZjMwQWtsTVN1LXBCbU85dFBIRmdsd3NXUnc?oc=5",
@@ -646,6 +664,15 @@
       "collected_at": "2026-11-19T03:50:41.587419Z"
     },
     {
+      "id": "bb0347614264046892050778",
+      "title": "Precios del petróleo caen por expectativas de mayor oferta pese a tensiones en Oriente Medio - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLTdpWFZKcmNxaUZxNElJV1BqdW4ybW4zYV9BcjFPbmJ5aDNyV2tOZWZJLXlMUGFDQ1hkdVNyd1J1NHlpSWlDeVI5ZHg2MUxaWUpVMlZDOFpzYTBzbkxFY24yaW9oUmdHbVBGczdJb0JQV01lU3ktaUFfS3ZjZjY2WGRWWjdoWG9Gb0MxX0YteHE0d1EzZk5NN1FCM1pTbEN5THlHTExFeU9lUXhOMnVWQW9UbjNRMHBId0ZZdkYtanQ2dm9IUC02VzVWSWEtaUNXT29haNIB2gFBVV95cUxPV2tZMmx3bEFrcGhYZzM4ODlkbVB6TXNlcXgtT1V1aktNLU9IbVhEZHJ4VnBDaHNMZVJyTmxaVnJYSjBQeHYwMkVrUjhsdGhrSWoxdURrYVhKLXVOMHozZzVReU5iVmFBR1VsLXBYRGNDaGVYLWQ4Y2ZGZlBldGZtbDU5bUtzaHVBczFicUdidUlwTE9IVmhsUDUtU0Q5Vkh6QlIwSk5Jelh2SnBmekZfdDBLMHFMMkVOZjhxWWcxa09paTNyazR2V1h6bnpweG9DanE5N1hFSjNJUQ?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-18T21:20:03Z",
+      "collected_at": "2026-11-19T03:53:31.243570Z"
+    },
+    {
       "id": "5ccb5840d2b9e0934e6c37bf",
       "title": "Fed Minutes Kept Bank Stocks On Edge - Finimize",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBadTQ2czgtRlpENzNmZEtWazhlSmQyZnR1RlFBTC1rbFl0MlJpZF9qa3FQVVlDZ25HVXBhd28xa1IzMjh0RDBvaVR6TmptZkM1bHJNMGJNR3Q1U1htWkRsRjBQT3REY1h6cVlLUm1RZGhDY3c?oc=5",
@@ -662,6 +689,15 @@
       "category": "Estados Unidos",
       "published_at": "2026-11-18T20:35:00Z",
       "collected_at": "2026-11-19T03:50:41.587419Z"
+    },
+    {
+      "id": "d870c8d53647874a243fb65d",
+      "title": "US 20-Year Treasury Auction Stops at 5.459%, Demand Solid - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkOXZCYllPTzJ5MVhPUHJSMERqcW1aX1JtMjZxOGZkOGtXQzl0OERiQkdvLV9rQmxPb1BCZjZWZEdJVlBWT05PMXdVbmp4djlGUjNTTQ?oc=5",
+      "source": "bloomingbit",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T20:31:06Z",
+      "collected_at": "2026-11-19T03:53:31.243570Z"
     },
     {
       "id": "755a5fa7531eeef44afbb1aa",
@@ -2668,42 +2704,6 @@
       "source": "Bloomberg.com",
       "category": "Estados Unidos",
       "published_at": "2026-11-17T11:00:03Z",
-      "collected_at": "2026-11-19T03:50:41.587419Z"
-    },
-    {
-      "id": "a5f01fd627ab24279c6061c5",
-      "title": "Gold struggles to rebound from one-year low as US dollar, yields advance - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGd6c05RMXpCQzBvWjhLZlZ6cjc4OUZ0cjZaSWxzZk9leV9WbG1EVmhoVlJfTHZZRFkxZml4Rll3TXd6SGc0dmtiSHFsYkVQWThZdkpxb3dGQkhpSkgyVC1HQlV5WkZQaHU4N3B2b2RELWdDaGpZLWtmbHo2cllMNE9tN29pYnJGM1Z4eFJ6bmNQdHJFX0lNTHZtV0x4MlNhT284LThTc1hTY2xlcEEta0wwNjg?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-17T10:43:57Z",
-      "collected_at": "2026-11-19T03:50:41.587419Z"
-    },
-    {
-      "id": "659a2d85aa22cdfbc606a11e",
-      "title": "JD Vance says he'll decide 'sometime next year' about 2028 presidential run",
-      "url": "https://www.cnbc.com/2026/11/17/jd-vance-2028-presidential-run-decision.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-17T10:40:56Z",
-      "collected_at": "2026-11-19T03:50:41.587419Z"
-    },
-    {
-      "id": "fb78f582dad299f026ad4088",
-      "title": "Euro zone economy seen growing moderately, France outlook weakest -Commission - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNc2k3bXJscXRZNnlPa3VxNTREb3djN2dXWVhFS1hwQ1ZFUkU0OF9KWnlLdFRPNHF1VEpVRGd2cmhJTGFDTnd4QTN4R0pmWmRtTkV2S1JuUTlBUTNCMzZxVDk0cEJWMzE5TjBVaVJwaFpJdzZ3TmRuWUNxeHpwSTJvbTZ4d0hQY284dmk0QWtLM0ZaQ0x0aHRZV1NxbHdaTzAxSTV3QmdsaExSTlJwb002RmZEYU93Qlk2?oc=5",
-      "source": "Reuters",
-      "category": "Mercados",
-      "published_at": "2026-11-17T10:08:37Z",
-      "collected_at": "2026-11-19T03:50:41.587419Z"
-    },
-    {
-      "id": "a4261dadb1700386ef00d52d",
-      "title": "Trump’s accounts traded up to $97.5 million in Nvidia as Huang gained White House access",
-      "url": "https://www.cnbc.com/2026/11/16/trump-nvidia-stock-trades-jensen-huang.html",
-      "source": "CNBC / Politics",
-      "category": "Política",
-      "published_at": "2026-11-17T10:08:32Z",
       "collected_at": "2026-11-19T03:50:41.587419Z"
     }
   ]
