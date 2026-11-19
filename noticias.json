@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-19T03:50:41.587419Z",
+  "generated_at": "2026-11-19T03:52:13.987226Z",
   "status": "ok",
   "sources_ok": 13,
   "sources_total": 13,
-  "new_articles": 379,
+  "new_articles": 83,
   "errors": [],
   "articles": [
     {
@@ -961,6 +961,15 @@
       "collected_at": "2026-11-19T03:50:41.587419Z"
     },
     {
+      "id": "7d46dabe8ba710ffe32f11f4",
+      "title": "UK says ministers urgently working with India on tariff dispute for Scotch whisky imports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOY1hmb256SjVmcVJudTZkZ0ZEbWtFZF8zamktckplMjBFUjVUMVVQUzRnaXFpSXJzdFZyVlJUcFlybkNvcXlQc3ZTTzgySXpybDZBb051Y0hEWjhnbVJybklIMUNVRDlCOGpLSXU3NU9YV0dmV21hS3otUlFQbTdjc3kzNG1EajhOX3k1NzVFd042d3AybDNFdkMxUUtfVVc5OEtNMjU2THprSGFkNjJPZm9yUUY0R3YxRGkw?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-18T18:14:00Z",
+      "collected_at": "2026-11-19T03:52:13.987226Z"
+    },
+    {
       "id": "2e16f1bd3deabb32fa622989",
       "title": "European stocks hit two-week on weak miners, caution ahead of Anthropic IPO - Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOV9Hdkl4TnlUc193dDE5Z3BJaXlMU195R3hFX1VVUFNuamhEVXpTRkZFMGNLM0VoblJjNUlyWFZ6T2x2TUw3ZWhPOWs1WlZRbGZ1OGwwbGY1UmZVQUJ4dzhkVV9oQnN3bF9RMlBGbmJEN21FV0ExaXYwMTYtY19MY2MwN3drWF91UWlLbnl2VGtfMlluNHpvX0xjbkZROXBm?oc=5",
@@ -1222,6 +1231,15 @@
       "collected_at": "2026-11-19T03:50:41.587419Z"
     },
     {
+      "id": "eef76fb466235bdf5ba74ecf",
+      "title": "Two More Days Above 5% and Treasury Yields Tie 2007’s Run - 24/7 Wall St.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNcFJoRmF1ZExJZGZxMFpXZnBGUXNmbVl5Z1h2eHJrS09RWHpZaFcxTjdaVVF0aUFvc3ZmX3ZnYUNFUW15TnhGeGhwY2EyUXhpQXlKaVJsOC1sS1NJRnVjTzNFNUxYbVRsZUFrRDU1Z053bDNHNmNDVDl0T3k5aG5HRktWNUUxbVVaUzNmZnhoWGUwbkxRMEM5TF9XNFpzbGpH?oc=5",
+      "source": "24/7 Wall St.",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T14:52:00Z",
+      "collected_at": "2026-11-19T03:52:13.987226Z"
+    },
+    {
       "id": "7a21be056211c7840635010c",
       "title": "Europe EV sales jump in October as high oil prices, subsidies fuel demand - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHp2TzJ2Y05ya3ZTTlItZFoxczJaalNkTGJtUXU3d2VEZG8yQlJIUEl1RDdiN0hxRlE3WXAxVzdFRGRpeXRMTHJkVEE5Z09uMW1wR2VXUVZDdHBPbXdIMWk0SXdjeFZiZ3htVUF3RkxibzQ0VU9BYTdZTkYxSU8tUHFvRkNyWTVxUlFrQ0JBR0hINU9mYXA4ZEpIZ2swLWpOS2hwOGRVbzBjamE5dHFfZ3pzd1NFOHc4?oc=5",
@@ -1238,6 +1256,15 @@
       "category": "Mercados",
       "published_at": "2026-11-18T14:23:02Z",
       "collected_at": "2026-11-19T03:50:41.587419Z"
+    },
+    {
+      "id": "89d20ed4c801070f1d4950f4",
+      "title": "Mortgage applications fall as 30-year rate hits three-week high - Mortgage Professional America",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbmhISHBOUHFmZ0N5clB0UXpqdTVhQjZ4bU5xRmdZa3I0ZFJjM0szblctRDlydkFaSDl6bWN4QWkyRTBTX2IzMHZkUjNJV0V0MW9fTlh2cXNqTXJLMkFCQThDTkJhM3ljbHQtNmN1VHBwSTNya2pEUUFxeHhTZjFzdzlBcEliTmQ1M3BKeFNwQV9EVVphbWFiRTJNN3hsRlB0ZEU1MWFRNVN5cTlEUk9MVExGSXRlUGlDMTJUOXQzOWx6YjBSNUwyZA?oc=5",
+      "source": "Mortgage Professional America",
+      "category": "Estados Unidos",
+      "published_at": "2026-11-18T14:22:10Z",
+      "collected_at": "2026-11-19T03:52:13.987226Z"
     },
     {
       "id": "dc92e16995792334510845cf",
@@ -1418,6 +1445,15 @@
       "category": "Política",
       "published_at": "2026-11-18T12:24:24Z",
       "collected_at": "2026-11-19T03:50:41.587419Z"
+    },
+    {
+      "id": "49b368bc697963954046ea5d",
+      "title": "India's RBI says Yes Bank AT1 ruling could weaken future bank rescues, filing shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUw0YUxNVUVtcWpnajdqRnJhb2JSOWFKdS1GNGxNTjFvVC1ma1JVTlIzdDhUcktaWjFLVndUTmoxRU5iMldLSHBWQktfUmt2Z0tUYnpEd1U0S3g5SXlyTldtUEtsRFNSRXdzaWd0SHVocjU5cjZIZ0RINzJ4S2MwLVJHd2k5ank1emUwV21pbFJCRjVnZGJqYU15SnBjMHk4ZVVVSm1odExCeHFFUmtPME9ia0NMQUo4RTRING90MW1pTEp4ZGI4?oc=5",
+      "source": "Reuters",
+      "category": "Mercados",
+      "published_at": "2026-11-18T12:23:43Z",
+      "collected_at": "2026-11-19T03:52:13.987226Z"
     },
     {
       "id": "0e8f1b7c560b2291c8e17448",
@@ -2428,6 +2464,15 @@
       "collected_at": "2026-11-19T03:50:41.587419Z"
     },
     {
+      "id": "b66febc6f723e52003ce33a4",
+      "title": "Taiwán y México: unidos por un futuro sostenible, innovador y resiliente - El Economista",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeVFJenNMbTU5M1dsSF8wNHRlQzZ3ckk1SkhkekNVOE5pMldoQTA5N3R6cEZQTjl6Q0cyaWQ2UU13RUw0ZDJHQWN3NFN1WHJCRG1WUDRoN1lPMDN1N2xQaXpsb3ZyVk9EdW1ZemtqeHhtQTFKUzNydTA1S2dWMDgyZ0hYdkJUZUczZ0pJdU5PTW5Ia1NUbzRPQU1mRGlVU2R6RGZHbFA4bmpVejFZcmtDQW1fMWxhOE1JY0EzR9IBwgFBVV95cUxPdDlQcU81VUdjc1hoN200aHRsODN4SUdjZFEyR1lpVzlPUUxTaGZ6Vm9jUkdRN2dWajZGUjBMX29nZUh5THduMGxVYXFVLUhuLW10SWEzZ21UaUIxTkpIVDB2UXFFczBZUERSem1pTlFadzVLc2haUjU4SUo5OURRT2Yta2tDS2l1ZDBJVUV0ZC1JM1gxMGI0emRsdm5lTF9LN3NGVlhNNy1ULVppYWRLWUJZQTdaZXZBTjh1U3dTSUY1Zw?oc=5",
+      "source": "El Economista",
+      "category": "México",
+      "published_at": "2026-11-17T14:56:40Z",
+      "collected_at": "2026-11-19T03:52:13.987226Z"
+    },
+    {
       "id": "bd26cc4491afa0703b050096",
       "title": "Inflación al alza, industria a la baja: señales mixtas para la economía mexicana - Imagen Radio",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3QzQ1Y1MF9LMWpNZVU1dXBoRk9jRXJvLVp1ZjVQeUhiNHZLcjJ0MEFZSTc0ckdRdjNKV2k4SlJvcm5VS0lNeWw4dTNEdzAzZGZTU24zcEZJZElIM2s5NC02a1JQMU15Q3V3LWZzMExNVlo3RFNreDBRQWtfTEJYSlVGek4xVnBRVWkyU29ZdTZ0SnFmSVRyNU5rZkVsOWFidDhmdXhmd1pvN0nSAbABQVVfeXFMT0pSWlBUc01BdVJsOFlwUEdENk1uYWZZTXZoQmdSRnRUT25BTXlseTFGSmhpektWaFhNNFY3QWlKUXgtYjNnSnNGdzlseHlaekRKVE5SYnJ1aUYwYXpEemx0MnBzWlBJaE1uelByYlBib3E4ZUlWcnlvbE5lVF9OTldFMk5lVkpwbTR3QktKS3IybDNQdnFGRmZENzZPRjZKQ3hNeE5mR3g0Q3B0SEhkMDc?oc=5",
@@ -2659,51 +2704,6 @@
       "source": "CNBC / Politics",
       "category": "Política",
       "published_at": "2026-11-17T10:08:32Z",
-      "collected_at": "2026-11-19T03:50:41.587419Z"
-    },
-    {
-      "id": "b9a5de5a8d43325a48b4adde",
-      "title": "Precio del dólar en México hoy, martes 17 de noviembre de 2026: tipo de cambio USD a MXN, cuánto vale y cotización de Banxico - El Comercio Perú",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUzBTY2N2RVd4YlVrR09EMl9YX2g5RUV0ZlR5dFN1WmFteC1LSnBHTmxkVnU5Zm9MWTJFcHdHZlQyNGhCNEl3emN5VUFyWUZ1TDlpZWtiMXExUThJVjVNVFFuM0RFZ2JFU3lwTnJZTEtQT2pfOGdKTUpMQ3A5eG9CNjRMRTVHaHhicVU0RkZCTzE5Ti1YaGl3YlFrQUstWF83ZTAteGJqSmR6WEVlXzdQZmt2VktKbTdVVVY1X2NLLWFVUUlISFBEMHVXYUZfZV95bE4wTFdfRS13ZmZwSHdrRlQ2NTEzOTBRTFdfNWVNLV8zaWZwU1ZrZ2xHeTB6aFVZb2k1U2pDc3gwTFlhT1NMT2t4VQ?oc=5",
-      "source": "El Comercio Perú",
-      "category": "México",
-      "published_at": "2026-11-17T10:00:00Z",
-      "collected_at": "2026-11-19T03:50:41.587419Z"
-    },
-    {
-      "id": "b8cc1d5c48100697446724cc",
-      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
-      "url": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
-      "source": "CNBC / Finance",
-      "category": "Mercados",
-      "published_at": "2026-11-17T08:52:45Z",
-      "collected_at": "2026-11-19T03:50:41.587419Z"
-    },
-    {
-      "id": "04e18326e15dfe448ac736aa",
-      "title": "Treasury yields moderate as investors parse retail sales data - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xcWR1OGh2RVFmcDRsR1JtUDJUVFhqWFVjQ3R2V1ZjSFpqWmNtRXQweHFac0UxYllNRzJ2akQ0R2Q3dTFpTkhGeWFMS3d4MFNIX1pMWW5oUWxyQzh2bV8zcG91MlVCNm5kNlVXN3dmMG1pVWYycHFR0gF8QVVfeXFMTlpoUmZfei1Qbjl3OU9tR3A4MmlvbXNIR3FXa1JaRW5CMm5qQmgwcVBRMlFGa1BFc243bG5vR1hJVjBhYVJvMDVmNmstX2M3ME93cjZUbXc5dE5IWHJ5bndwRlJOLUNBTDBEY08tTUVMdG12c0VpemV3VUQtSw?oc=5",
-      "source": "CNBC",
-      "category": "Estados Unidos",
-      "published_at": "2026-11-17T08:23:51Z",
-      "collected_at": "2026-11-19T03:50:41.587419Z"
-    },
-    {
-      "id": "73d639075775c94b6074dd4a",
-      "title": "Déficit fiscal de México superaría 4% del PIB por sexto año consecutivo en 2027 - EL CEO",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd2xlQzh1RHAxZjdtY05oMEhqcGVHcmNOLUg4QjJ6eXF0Z2N6S1hWWGxHSDZScGZueXlIZlRnN3FBVkJwbGFGeldIeDdGbGU5Tk9OMFNPZEh5di1QOGplMzdySUJtTnNiaGJjMW50MzV1eUk3akNGc2ZTWTl0YnRxa0ZXWW5GR01TSlpMN0VIZHZRY256NFRmVUVESQ?oc=5",
-      "source": "EL CEO",
-      "category": "Política",
-      "published_at": "2026-11-17T08:03:29Z",
-      "collected_at": "2026-11-19T03:50:41.587419Z"
-    },
-    {
-      "id": "114fb5e494d93e86342ad7d8",
-      "title": "Inflación en México podría acercarse al 4% en diciembre por aumento del consumo - El Sol de México",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObzg5YzYtWFZxN1Z5S2JLYjM0VW1YY3Z6dC16Ulk2dWNKZ1NNc3EweUxUTGF5SWRZZmdXcWg4Z211V0JKTEVwdTUwdVlWVnJ6MjNFYlhuNFdWRlEyMV9MUWdoZzhjQlotd2s0VVFyc1hFZlZBMFhkLVNRdmpEbEpWbWw3aGpXRzlOa2h4dDh4alZYYUQ1X0J4VWVOTkJMRG1oclR6UXB3MkxiUzhJelZSQmdlU1dnYlhqVDkybVFKWDdRbDJGaUE?oc=5",
-      "source": "El Sol de México",
-      "category": "México",
-      "published_at": "2026-11-17T07:35:47Z",
       "collected_at": "2026-11-19T03:50:41.587419Z"
     }
   ]
